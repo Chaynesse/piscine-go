@@ -1,5 +1,3 @@
 #! /bin/bash
 
-echo "hello Chaynesse"
-
-
+echo "Hello Chaynesse!"
